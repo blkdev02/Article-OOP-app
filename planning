@@ -1,0 +1,10 @@
+user can see the list of articles
+user can buy the article
+
+user can get a receipt of purchase
+
+classes:
+
+article
+receipt
+
